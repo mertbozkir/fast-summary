@@ -1,0 +1,5 @@
+pytube
+modal
+faster-whisper
+transformers
+torch
